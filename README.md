@@ -35,7 +35,7 @@ Open your browser and navigate to `http://localhost:3000` to use the application
 
 ## Demo
 
-![Demo](path/to/demo.gif)
+![Demo](./demo.gif)
 
 ## License
 
